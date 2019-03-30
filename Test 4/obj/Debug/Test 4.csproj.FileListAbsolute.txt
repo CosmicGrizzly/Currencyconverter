@@ -1,0 +1,7 @@
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\bin\Debug\Test 4.exe.config
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\bin\Debug\Test 4.exe
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\bin\Debug\Test 4.pdb
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\obj\Debug\Test 4.csproj.CoreCompileInputs.cache
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\obj\Debug\Test 4.exe
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\obj\Debug\Test 4.pdb
+C:\Users\Inari\Desktop\Visual Work\Test 4\Test 4\obj\Debug\Test 4.csprojAssemblyReference.cache
